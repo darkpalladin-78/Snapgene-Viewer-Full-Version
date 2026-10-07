@@ -270,4 +270,4 @@ This repository serves as the official landing page for SnapGene Viewer. The sof
 **Get the most recent version of SnapGene Viewer today!**
 
 ---
-**Last updated:** 2026-10-06 21:21:14 UTC
+**Last updated:** 2026-10-07 01:06:04 UTC
